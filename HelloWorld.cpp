@@ -1,5 +1,5 @@
 // Simple C++ program to display "Hello World" 
-// Author: Shubham Tiwari <gh9860@wayne.edu> 
+// Author: Shubham Tiwari <gh9860@wayne.edu> --
 #include<iostream>  
   
 using namespace std; 
